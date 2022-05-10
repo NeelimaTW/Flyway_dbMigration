@@ -1,6 +1,6 @@
 fileignoreconfig:
 - filename: src/main/resources/db.migration/V1__CreateUsersTable.sql
-  checksum: 79d4610f5a2836bcc87ea8f259b2fece7f9475cd9aab6dd0b104d59403c4cfa2
+  checksum: dbb1a5055cf1adc88b43e5b211e41ee52db09020898e96e767fcff61a98baeaa
 - filename: src/main/resources/db.migration/V2__CreateProductsTable.sql
-  checksum: 5534b4b86c97cfffd7133c93842e1e9b68e1c26772c47f3815641232e5f39d50
+  checksum: a105daf4f4561cbcc1eb9f1fc825828f1370ffa82836235aa0530e047d874ffb
 version: ""
