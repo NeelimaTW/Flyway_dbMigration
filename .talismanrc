@@ -4,6 +4,11 @@ fileignoreconfig:
 - filename: src/main/resources/db.migration/V2__CreateProductsTable.sql
   checksum: a105daf4f4561cbcc1eb9f1fc825828f1370ffa82836235aa0530e047d874ffb
 - filename: src/main/resources/db.migration/V1.1__AlterNameFieldInUsersTable.sql
-  checksum: 8c8013a03a0b793af4c5d8bdb013bf160ad4cd1d79b869f729fabfdf261ad234
+  checksum: 4bdee6518d490bb09e2a9419603f786e3e9b9356dae511143b477925e363af39
+- filename: src/main/resources/db.migration/V1.2__AddPrimaryPhoneNumberToUsersTable.sql
+  checksum: 4ab69b71ff7064c9fd8866dada66296af30b44033b838cab41ccd7d5b0477795
+- filename: src/main/resources/db.migration/V3__CreateCartsTable.sql
+  checksum: 26b4663f0cfb64c87956872670205895974b63308b2c26fb11fc5873ee12124e
+
 
 version: ""
